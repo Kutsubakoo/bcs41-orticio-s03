@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzUV3mRD0or8mA7UvoTkGUi+6OtioHe6T+CdHFsde9SciGHeJyavhRKUtFx+btYzwuXKXlFq1eYBImmd78Lr8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\s03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Client\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Client\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

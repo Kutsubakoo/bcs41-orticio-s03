@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wruCmQPOTBU6Yt49EdtzubJGITd1p97bG0tpicMfLUs5P+ty2nU5cw5T/e05eq+fB9vZdvIq81YHL90Esg4Ikw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\Pingpong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Client\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Client\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\bin\Debug\Pingpong.dll
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\bin\Debug\Pingpong.pdb
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.csproj.AssemblyReference.cache
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.AssemblyInfoInputs.cache
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.AssemblyInfo.cs
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.csproj.CoreCompileInputs.cache
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.dll
+C:\Users\Client\Documents\bcs41-orticio\OrticioPingPong\.mono\temp\obj\Debug\Pingpong.pdb
