@@ -26,13 +26,12 @@ public class ball : KinematicBody2D
 
     public void _on_leftWall_body_entered(Node body)
     {
-        
         Position = InitialPosition;
     }
-    public void _on_rightWall_body_entered(Node body)
+    public void reset()
     {
-        
         Position = InitialPosition;
+
     }
 
     
