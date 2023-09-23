@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public class paddle2 : Sprite
+public class paddle2 : KinematicBody2D
 {
     // Declare member variables here. Examples:
     // private int a = 2;
@@ -16,7 +16,7 @@ public class paddle2 : Sprite
 //  // Called every frame. 'delta' is the elapsed time since the previous frame.
     public override void _Process(float delta)
     {
-        Godot.Sprite child = GetNode<Sprite>("paddle2");
+        
         float amount = 5;
 
         if((Input.IsKeyPressed((int)KeyList.I))){

@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public class Script : Node2D
+public class Script : KinematicBody2D
 {
     // Declare member variables here. Examples:
     // private int a = 2;

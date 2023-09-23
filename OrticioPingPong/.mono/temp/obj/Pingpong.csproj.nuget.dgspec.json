@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\Pingpong.csproj": {}
+    "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\OrticioPingPong\\Pingpong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\Pingpong.csproj": {
+    "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\OrticioPingPong\\Pingpong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\Pingpong.csproj",
+        "projectUniqueName": "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\OrticioPingPong\\Pingpong.csproj",
         "projectName": "Pingpong",
-        "projectPath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\Pingpong.csproj",
+        "projectPath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\OrticioPingPong\\Pingpong.csproj",
         "packagesPath": "C:\\Users\\Client\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\OrticioPingPong\\.mono\\temp\\obj\\",
+        "outputPath": "C:\\Users\\Client\\Documents\\bcs41-orticio\\s03\\OrticioPingPong\\.mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Client\\AppData\\Roaming\\NuGet\\NuGet.Config"
